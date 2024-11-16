@@ -1,0 +1,5 @@
+string type
+
+---
+int32[2] center
+uint8 state
